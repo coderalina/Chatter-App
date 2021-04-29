@@ -1,0 +1,73 @@
+body {
+    background-color: #a2d2ff;
+    
+    background-size: cover;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 55px;
+}
+
+.login_div1{
+    border-radius: 4px;
+    margin-left: 225px;
+    margin-left: 550px;
+
+
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+
+label{
+font-size: x-large;
+font-weight: bold;
+}
+
+input{
+    margin-top: 20px;
+    margin-left: 5px;
+    width: 280px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.247);
+}
+
+#btn{
+    width: 280px;
+    height: 50px;
+    margin-top: 55px;
+    margin-left: 10px;
+    border-radius: 8px;
+    background-color: rgb(30, 30, 255);
+    color: mintcream;
+    font-size: 20px;
+    box-shadow: orange;
+    border-width: 2px;
+    border-color:gold;
+}
+
+::placeholder {
+    color: rgb(0, 0, 0);
+    opacity: 1; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: black;
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+   color: black;
+  }
+
+ #logo {
+ width: 50px;
+ height: 50px;
+ margin-top: 30px;
+  }
